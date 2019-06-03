@@ -1,0 +1,25 @@
+{
+  "description": "test data",
+  "duration": 119,
+  "id": 3532674,
+  "imdbId": "tt0401792",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "originalLanguage": "en",
+  "productionYear": 2000,
+  "studios": [
+    "20th century fox",
+    "Paramount"
+  ],
+  "title": "Sin City",
+  "userrating": {
+    "countStar1": 12,
+    "countStar2": 15,
+    "countStar3": 76,
+    "countStar4": 87,
+    "countStar5": 120,
+    "countTotal": 312
+  }
+}
